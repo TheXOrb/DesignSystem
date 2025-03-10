@@ -1,6 +1,7 @@
 # DesignSystem
 Design system for The X ORB AB projects, based on Material 3. Licensed under CC BY 4.0.
 
+# CC Attribution 4.0 International
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
