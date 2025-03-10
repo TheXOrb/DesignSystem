@@ -1,4 +1,5 @@
 # DesignSystem
+All here are just a starting point and suggestion - open to freely change this repo.
 
 ## General requirement that should be in all components that have a frontend
 
@@ -19,7 +20,7 @@
 ## Basic foundation from Google YOU 
 - https://m3.material.io/
 
-## Color palette
+## Color palette (just a suggestion)
 - Primary color: #2967A2
 - Secondary color: #8BC34A
 - Tertiary color: #FFC799
